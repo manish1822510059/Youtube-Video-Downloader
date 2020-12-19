@@ -1,5 +1,11 @@
 # Youtube-Video-Downloader
 Using Python language With the help of Tkinter library Made GUI Application Youtube  Video Downloader.
+
+## features:-
+1) You can download a video file.
+2) You can also download an mp3 file
+3)Downloading speed is very fast as compared to the normal web browser.
+
 ## STEP 1
 RUN THE CODE IN EDITER LIKE VS CODE,PYCHAM,JUPITER NOTEBOOK.
 
